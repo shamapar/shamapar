@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **shamapar/shamapar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+<h2 align="center">Hey there 👋, I'm Md Sadab Saqib</h2>
+<h5 align="center">A passionate Test Automation Engineer from Nepal</h5>
+-->
+
+<img align="right" width="500" height="500" src="https://github.com/shamapar/shamapar/blob/main/images/coder_girl_02.gif" alt="Coder GIF">
+
+**Languages and Tools:**
+
+![Playwright](https://img.shields.io/badge/🎭-Playwright-393?&style=for-the-badge&logo=Playwright&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?&style=for-the-badge&logo=Typescript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&style=for-the-badge&logo=JavaScript&logoColor=black)
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+![.ENV Badge](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?&style=for-the-badge&logo=Postman&logoColor=white)
+![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-%23181717?&style=for-the-badge&logo=GitHub&logoColor=white)
+
+
+
+####  Statistics
+
+<p align="left"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=shamapar&count_private=true&show_icons=true&theme=tokyonight" alt="sadab" width="420"/> 
+</p>
