@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-<h2 align="center">Hey there 👋, I'm Md Sadab Saqib</h2>
-<h5 align="center">A passionate Test Automation Engineer from Nepal</h5>
--->
 
-<img align="right" width="500" height="500" src="https://github.com/shamapar/shamapar/blob/main/images/coder_girl_02.gif" alt="Coder GIF">
+<h2 align="center">Hey there 👋, I'm Shama Parveen</h2>
+<h5 align="center">A passionate Test Automation Engineer</h5>
 
 ---
 **Languages and Tools:**
@@ -33,6 +30,9 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?&style=for-the-badge&logo=GitHub&logoColor=white)
 
 ---
+
+<img src="https://github.com/shamapar/shamapar/blob/main/images/coder_girl_02.gif" alt="Coder GIF">
+<!-- <img align="right" width="500" height="500" src="https://github.com/shamapar/shamapar/blob/main/images/coder_girl_02.gif" alt="Coder GIF"> -->
 
 ####  Statistics
 
