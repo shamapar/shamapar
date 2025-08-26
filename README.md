@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <h5 align="center">A passionate Test Automation Engineer from Nepal</h5>
 -->
 
-<img align="right" width="400" height="400" src="https://github.com/shamapar/shamapar/blob/main/images/coder_girl_02.gif" alt="Coder GIF">
+<img align="right" width="500" height="500" src="https://github.com/shamapar/shamapar/blob/main/images/coder_girl_02.gif" alt="Coder GIF">
 
+---
 **Languages and Tools:**
 
 ![Playwright](https://img.shields.io/badge/🎭-Playwright-393?&style=for-the-badge&logo=Playwright&logoColor=fff)
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?&style=for-the-badge&logo=GitHub&logoColor=white)
 
-
+---
 
 ####  Statistics
 
