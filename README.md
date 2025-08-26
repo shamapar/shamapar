@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h5 align="center">A passionate Test Automation Engineer from Nepal</h5>
 -->
 
-<img align="right" width="500" height="500" src="https://github.com/shamapar/shamapar/blob/main/images/coder_girl_02.gif" alt="Coder GIF">
+<img align="right" width="400" height="400" src="https://github.com/shamapar/shamapar/blob/main/images/coder_girl_02.gif" alt="Coder GIF">
 
 **Languages and Tools:**
 
