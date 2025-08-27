@@ -14,11 +14,24 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="center">Hey there 👋, I'm Shama Parveen</h2>
-<h5 align="center">A passionate Test Automation Engineer</h5>
+<h1 align="center">Hey there 👋, I'm Shama Parveen</h1>
+<h3 align="center">A passionate Test Automation Engineer</h3>
+
+
+<div align="center">
+  <img alt="Coding" height="300" width="450" 
+    src="https://github.com/shamapar/shamapar/blob/main/images/coder_girl_02.gif" alt="Coder GIF" >
+</div>
 
 ---
 **Languages and Tools:**
+
+- Languages : JavaScript, TypeScript <br>
+- Tools / Frameworks: Playwright, NodeJS, Postman <br>
+- Code Quality : Eslint <br>
+- Design Patter : Page Object Model (POM) <br>
+- Data Generator : Faker-JS <br>
+- Version Control : Git <br>
 
 ![Playwright](https://img.shields.io/badge/🎭-Playwright-393?&style=for-the-badge&logo=Playwright&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?&style=for-the-badge&logo=Typescript&logoColor=black)
@@ -31,7 +44,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img src="https://github.com/shamapar/shamapar/blob/main/images/coder_girl_02.gif" alt="Coder GIF">
+<!-- <img src="https://github.com/shamapar/shamapar/blob/main/images/coder_girl_02.gif" alt="Coder GIF"> -->
 <!-- <img align="right" width="500" height="500" src="https://github.com/shamapar/shamapar/blob/main/images/coder_girl_02.gif" alt="Coder GIF"> -->
 
 ####  Statistics
