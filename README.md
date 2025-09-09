@@ -1,19 +1,3 @@
-<!--
-**shamapar/shamapar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1 align="center">Hey there 👋, I'm Shama Parveen</h1>
 <h3 align="center">A passionate Test Automation Engineer</h3>
 
@@ -44,11 +28,8 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- <img src="https://github.com/shamapar/shamapar/blob/main/images/coder_girl_02.gif" alt="Coder GIF"> -->
-<!-- <img align="right" width="500" height="500" src="https://github.com/shamapar/shamapar/blob/main/images/coder_girl_02.gif" alt="Coder GIF"> -->
-
 ####  Statistics
 
 <p align="left"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=shamapar&count_private=true&show_icons=true&theme=tokyonight" alt="sadab" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=shamapar&count_private=true&show_icons=true&theme=tokyonight" alt="Shama" width="420"/> 
 </p>
