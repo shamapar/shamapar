@@ -1,11 +1,13 @@
-<h1 align="center">Hey there 👋, I'm Shama Parveen</h1>
+<!-- <h1 align="center">Hey there 👋, I'm Shama Parveen</h1>
 <h3 align="center">A passionate Test Automation Engineer</h3>
 
 
 <div align="center">
   <img alt="Coding" height="300" width="450" 
     src="https://github.com/shamapar/shamapar/blob/main/images/coder_girl_02.gif" alt="Coder GIF" >
-</div>
+</div> -->
+
+![statics-dashboard](https://samdev-pulse.vercel.app/api/profile?username=shamapar&theme=dracula&align=center)
 
 ---
 **Languages and Tools:**
@@ -28,8 +30,10 @@
 
 ---
 
+
+<!-- 
 ####  Statistics
 
 <p align="left"> 
     <img src="https://github-readme-stats.vercel.app/api?username=shamapar&count_private=true&show_icons=true&theme=tokyonight" alt="Shama" width="420"/> 
-</p>
+</p> -->
